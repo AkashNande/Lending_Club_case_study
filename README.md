@@ -10,9 +10,10 @@
 
 ## Technologies Used
 - python
-- pandas 
+- pandas
+- numpy
 - sns 
-- matplotlib 
+- matplotlib
 
 ## Conclusions
 - Loan amount with tenure of 60 months with high rates must not be disbursed as they are likely to be defaulted, for focus should be     given on grades if disbursed.
